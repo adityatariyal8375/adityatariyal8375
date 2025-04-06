@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityatariyal8375
-- 👀 I’m recently serious and interested in making an app
-- 🌱 I’m currently learning flutter 
+- 👀 I am interested in deploying machine learning models
+- 🌱 I’m currently learning AI/ML
 - 📫 Instagram:l._.ladi_tyal._.l
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a lazy guy, not even pressing 'shift' key while typing
