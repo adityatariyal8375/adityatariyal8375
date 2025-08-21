@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Tariyal</h1>
 <h3 align="center">A passionate AI and Data Science from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityatariyal8375&label=Profile%20views&color=0e75b6&style=flat" alt="adityatariyal8375" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251" alt="adityatariyal8375"  "> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityatariyal8375" alt="adityatariyal8375" /></a> </p>
+
+
+
 
 - 🌱 I’m currently diving deep into **Mathematics and Statistics**
 
@@ -24,13 +26,13 @@
 </p>
 
 <h2 align="center">Languages:</h2>
-<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="mysql" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="sql" width="110" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 
 <h2 align="center">Libraries:</h2>
 <p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/learnbyinsight.com/wp-content/uploads/2020/09/matplotlib-logo.png?fit=425%2C102&ssl=1" alt="matplotlib" width="120" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> </p>
 
 <h2 align="center">Tools:</h2>
@@ -39,7 +41,8 @@
 <a href="https://www.tableau.com/trial/tableau-software?d=701ed00000ag8BuAAI&nc=701ed00000agjo7AAA&utm_content=701ed00000ag8BuAAI&gclsrc=aw.ds&gad_source=1&gad_campaignid=22826734786&gbraid=0AAAABAVuWUlRQI_lzeMlB6_GlvBL-oE_Q&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPuN_iuixhGgpNiBuyP1yxKQQpdlErzrwJiP0uREyF6zpgN076PMcJoaAtubEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D5612AQFE9B10TNNrzQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694984434562?e=2147483647&v=beta&t=SlT07PbSgic0xFxpUczQHrZHiG-3RbTE1mndORyTpk4" alt="Tableau" width="110" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/474x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" alt="mssql" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql" width="60" height="60"/> </a>
+<h2 align="center">Analytics</h2>
+<p align="center"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatariyal8375&show_icons=true&locale=en&layout=compact" alt="adityatariyal8375" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatariyal8375&show_icons=true&locale=en&layout=compact" alt="adityatariyal8375" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatariyal8375&show_icons=true&locale=en" alt="adityatariyal8375" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityatariyal8375&show_icons=true&locale=en" alt="adityatariyal8375" /></p>
